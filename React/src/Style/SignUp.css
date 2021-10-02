@@ -1,0 +1,11 @@
+#InputOfText{
+    width: 70%;
+    margin: auto;
+}
+
+#FormOfSignUp{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
